@@ -2,7 +2,7 @@
 ## IT项目管理 小组分配情况和列表
 
 <div>
-  <table border="0" style="text-align:center">
+  <table>
     <tr>
       <th width="100">序号 </th>
       <th width="100">队名 </th>
