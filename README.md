@@ -4,7 +4,7 @@
 <div>
   <table border="0" style="text-align:center">
     <tr>
-      <th>序号 </th>
+      <th width="100">序号 </th>
       <th width="100">队名 </th>
       <th width="250">队内成员</th>
       <th>项目名</th>
