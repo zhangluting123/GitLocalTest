@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td>1</td>
-      <td>祁乐老师海外后援会马来西亚分会</td>
+      <td width="100">祁乐老师海外后援会马来西亚分会</td>
       <td>申领东（组长）、王盼、盛蕾</td>
       <td>Pet Friend</td>
       <td>https://github.com/Shenlingdong/project-management</td>
