@@ -106,6 +106,8 @@ public class MainActivity extends AppCompatActivity {
                 comment(true);//调出评论框
                 mAmEtMsg.setText("");//清空
                 mAmEtMsg.setHint("回复"+mCommentList.get(post).getNickName());
+                Log.e("update", "update");
+                Log.e("update", "update");
             }
         });
 
