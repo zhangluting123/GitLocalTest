@@ -63,7 +63,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        Log.e("1","1");
+        Log.e("2","2");
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         initView();
