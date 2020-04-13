@@ -66,11 +66,12 @@ public class MainActivity extends AppCompatActivity {
         Log.e("1","1");
         Log.e("2","2");
         setContentView(R.layout.activity_main);
+        Log.e("2","2");
         ButterKnife.bind(this);
         initView();
         initData();
         initAdapter();
-        initListener();
+        initListener();Log.e("","");
     }
 
     private void initView() {
